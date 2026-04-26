@@ -44,20 +44,13 @@ const diego2crocs = {
 
 ---
 
-## 🔥 Streak & Trophées
+## 🔥 Streak
 
 <div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diego2crocs&theme=radical&hide_border=true&background=1a0b2e&ring=B794F4&fire=B794F4&currStreakLabel=B794F4&sideLabels=B794F4&dates=FFFFFF)
   
 </div>
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=diego2crocs&theme=radical&no-frame=true&no-bg=false&row=1&column=7&v=2)
-  
-</div>
-
 ---
 
 ## 📈 Graph d'activité
@@ -74,7 +67,7 @@ const diego2crocs = {
 
 <div align="center">
   
-  ![3D Contributions](https://raw.githubusercontent.com/diego2crocs/diego2crocs/main/profile-3d-contrib/profile-night-purple.svg)
+  ![3D Contributions](https://raw.githubusercontent.com/diego2crocs/diego2crocs/main/profile-3d-contrib/profile-gitblock.svg)
   
 </div>
 
