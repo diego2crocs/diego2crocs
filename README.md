@@ -33,18 +33,6 @@ const diego2crocs = {
 };
 ```
 
----
-
-## 🎵 En écoute sur Spotify
-
-<div align="center">
-  
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=37yk8xtdk8q5dvbesjiz2c3lg&cover_image=true&theme=novatorem&show_offline=false&background_color=1a0b2e&interchange=false&bar_color=b794f4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=37yk8xtdk8q5dvbesjiz2c3lg&redirect=true)
-  
-</div>
-
----
-
 ## 📊 Statistiques GitHub
 
 <div align="center">
@@ -66,7 +54,7 @@ const diego2crocs = {
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=diego2crocs&theme=radical&no-frame=true&no-bg=false&row=1&column=7)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=diego2crocs&theme=radical&no-frame=true&no-bg=false&row=1&column=7&v=2)
   
 </div>
 
