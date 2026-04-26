@@ -4,7 +4,8 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=diego2crocs&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=diego2crocs&color=7C3AED&style=for-the-badge)
+  ![Status](https://img.shields.io/badge/Status-En_Apprentissage-7C3AED?style=for-the-badge)
   
 </div>
 
@@ -33,6 +34,20 @@ const diego2crocs = {
 };
 ```
 
+---
+
+## 🎮 Gaming & Stuff
+
+<div align="center">
+
+![Apex Legends](https://img.shields.io/badge/Apex_Legends-FF4655?style=for-the-badge&logo=apexlegends&logoColor=white)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Diego2Crocs/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/485074022263160844)
+
+</div>
+
+---
+
 ## 📊 Statistiques GitHub
 
 <div align="center">
@@ -40,17 +55,9 @@ const diego2crocs = {
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diego2crocs&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=B794F4&icon_color=B794F4&text_color=FFFFFF&ring_color=B794F4)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego2crocs&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=B794F4&text_color=FFFFFF)
   
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diego2crocs&theme=radical&hide_border=true&background=1a0b2e&ring=B794F4&fire=B794F4&currStreakLabel=B794F4&sideLabels=B794F4&dates=FFFFFF)
   
 </div>
+
 ---
 
 ## 📈 Graph d'activité
@@ -58,16 +65,6 @@ const diego2crocs = {
 <div align="center">
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diego2crocs&theme=high-contrast&hide_border=true&bg_color=1a0b2e&color=B794F4&line=B794F4&point=FFFFFF&area=true&area_color=7C3AED)
-  
-</div>
-
----
-
-## 🌟 Contributions 3D
-
-<div align="center">
-  
-  ![3D Contributions](https://raw.githubusercontent.com/diego2crocs/diego2crocs/main/profile-3d-contrib/profile-gitblock.svg)
   
 </div>
 
@@ -110,7 +107,7 @@ const diego2crocs = {
   
   [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diego2crocs)
   [![Email](https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
-  [![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)](https://code.42.tech/fr/users/fbf44dfa-ed88-47b6-bf76-f356f8ee97b3/7d8b9579-ea54-4a33-b2e6-420dc4d3d7d2/about)
+  [![42](https://img.shields.io/badge/42Paris-000000?style=for-the-badge&logo=42&logoColor=white)](https://code.42.tech/fr/users/fbf44dfa-ed88-47b6-bf76-f356f8ee97b3/7d8b9579-ea54-4a33-b2e6-420dc4d3d7d2/about)
   
 </div>
 
