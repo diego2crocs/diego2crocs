@@ -20,10 +20,11 @@ const diego2crocs = {
     name: "Diego",
     role: "Dev jusqu'à la mort",
     skills: {
-        JavaScript: "en apprentissage",
+        JavaScript: "ok-",
         HTML: "ok",
         CSS: "ok",
-        C: "en apprentissage",
+        C: "ok--",
+        Python: "en apprentissage",
         ApexLegends: "Monstre"
     },
     currentlyLearning: ["JavaScript", "Node.js", "C"],
