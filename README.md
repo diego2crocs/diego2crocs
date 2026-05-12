@@ -48,18 +48,6 @@ const diego2crocs = {
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diego2crocs&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=B794F4&icon_color=B794F4&text_color=FFFFFF&ring_color=B794F4)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego2crocs&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=B794F4&text_color=FFFFFF)
-  
-  
-</div>
-
----
-
 ## 📈 Graph d'activité
 
 <div align="center">
