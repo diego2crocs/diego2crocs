@@ -31,7 +31,8 @@ const diego2crocs = {
     interests: ["Code", "Open Source", "Automatisation", "Jeux vidéo"],
     tools: ["VS Code", "Git", "Figma"],
     goals2026: ["Lancer un projet public", "Ne pas se faire drop out de 42"],
-    funFact: "Je casse mon code pour l'upgrade"
+    funFact: "Je casse mon code pour l'upgrade",
+    wow: "bs"
 };
 ```
 
